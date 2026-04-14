@@ -61,8 +61,8 @@ Theme	Style
 💾 LocalStorage for history
 🚀 Getting Started
 📥 Clone the project
-git clone https://github.com/your-username/dtc-qr-studio.git
-cd dtc-qr-studio
+git clone https://github.com/Philemon12421/QR-Code-Generator.git
+cd QR-Code-Generator
 ▶️ Run it
 
 Just open:
