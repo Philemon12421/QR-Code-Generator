@@ -6,7 +6,7 @@ A next-generation QR code generator built for speed, beauty, and flexibility.
 
 🎯 Create stunning QR codes for anything — instantly.
 🎨 Customize everything — colors, logos, styles.
-🚀 Export and share in seconds.
+ Export and share in seconds.
 
 🎬 Live Experience
 <div align="center"> <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="600"/> </div>
