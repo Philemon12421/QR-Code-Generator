@@ -20,7 +20,7 @@ A next-generation QR code generator built for speed, beauty, and flexibility.
 + vCard (Contact)
 🎨 Customization
 
-✨ Make your QR codes look premium
+ Make your QR codes look premium
 
 🎨 Custom Colors (Foreground + Background)
 📏 Adjustable Size (128px → 512px)
