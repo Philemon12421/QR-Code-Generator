@@ -76,7 +76,7 @@ npx serve
 1. Select QR type
 2. Enter content
 3. Customize design
-4. Click Generate ⚡
+4. Click Generate 
 5. Download / Share 🚀
 🔐 Privacy First
 + No tracking
