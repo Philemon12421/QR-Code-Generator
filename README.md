@@ -1,4 +1,4 @@
-🌈 DTC QR Studio — Pro QR Generator
+🌈 DTC QR Studio — Pro QR Generator 
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Create+Beautiful+QR+Codes;Fast.+Modern.+Free.;No+Signup+Required;Powered+by+DTC" /> <br/> <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge&color=16a34a"> <img src="https://img.shields.io/badge/100%25-Free-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/Made%20with-JavaScript-yellow?style=for-the-badge"> <img src="https://img.shields.io/badge/UI-Modern-purple?style=for-the-badge"> </div>
  Overview
 
